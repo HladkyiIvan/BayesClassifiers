@@ -1,2 +1,2 @@
-# Naive Bayes
-Implementation of Naive Bayes classifier from scratch
+# Bayes Classifier
+Implementation of Bayes Classifier variations from scratch
