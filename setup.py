@@ -1,7 +1,7 @@
 from setuptools import setup
 
 setup(name='BayesClassifiers',
-      version='0.2',
+      version='0.3',
       description='NaiveBayes | BayesClassifier | SemiparametricBayesClassifier',
       url='https://github.com/HladkyiIvan/BayesClassifiers',
       author='Hladkyi Ivan',
